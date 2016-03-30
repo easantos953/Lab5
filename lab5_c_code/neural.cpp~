@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+//get .txt files from matlab, store into sdram
+
+//read from sdram, store into matrices
+
+//matrix multiplication
+
+//get results probability + index
+
+
+int main(){
+}
